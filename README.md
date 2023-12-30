@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 .-->
  ## Github Stats
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=cyganev&hide=issues,contribs&show_icons=true&count_private=true&theme=vue-dark&hide_border=true" /></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=cygane&hide=issues,contribs&show_icons=true&count_private=true&theme=vue-dark&hide_border=true" /></a>
 
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cygane&theme=vue-dark&hide_border=true&langs_count=10&layout=compact" /></a>
 <br>
