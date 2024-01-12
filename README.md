@@ -21,6 +21,6 @@ Hi, I'm Julia Cygan
 ## My repos (I'll improve in that. I promise)
 <p align="center">
  <a href="https://github.com/cygane/Uwr-studia">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=cygane&theme=blue-green&bg_color=30,040f0f,000f00&repo=Uwr-studia" /></a>
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=cygane&theme=vue-dark&bg_color=00000000,040f0f,000f00&repo=Uwr-studia" /></a>
 </p>
 
