@@ -5,17 +5,12 @@
 Here are some ideas to get you started:
 -->
 Hi, I'm Julia Cygan 
-<h3 align="center">A computer science student at Uniwersytet Wrocławski</h3>
-- I’m currently working on [FajrantInator.pl](https://github.com/PatrykFlama/FajrantInator.pl)
-<!---- 🌱 I’m currently learning Discrete Math :/
- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ..
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- a computer science student at Uniwersytet Wrocławski
+- currently working on [FajrantInator.pl](https://github.com/PatrykFlama/FajrantInator.pl)
+- also struggling in Discrete Math 
+ 
 
-.-->
+
  ## Github Stats
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=cygane&hide=issues,contribs&show_icons=true&bg_color=00000000&count_private=true&theme=vue-dark&hide_border=true" /></a>
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cygane&bg_color=00000000&theme=vue-dark&hide_border=true&langs_count=5&layout=donut" /></a>
