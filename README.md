@@ -4,6 +4,8 @@
 
 Here are some ideas to get you started:
 -->
+Hi, I'm Julia Cygan 
+<h3 align="center">A computer science student at Uniwersytet Wrocławski</h3>
 - I’m currently working on [FajrantInator.pl](https://github.com/PatrykFlama/FajrantInator.pl)
 <!---- 🌱 I’m currently learning Discrete Math :/
  👯 I’m looking to collaborate on ...
