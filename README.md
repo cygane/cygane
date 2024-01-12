@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on FajrantInator.pl
+- I’m currently working on [FajrantInator.pl](https://github.com/PatrykFlama/FajrantInator.pl)
 <!---- 🌱 I’m currently learning Discrete Math :/
  👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ..
