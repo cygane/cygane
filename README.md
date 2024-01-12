@@ -18,4 +18,9 @@ Hi, I'm Julia Cygan
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cygane&bg_color=00000000&theme=vue-dark&hide_border=true&langs_count=5&layout=donut" /></a>
 <br>
 
+## My repos (I'll improve in that. I promise)
+<p align="center">
+ <a href="https://github.com/cygane/Uwr-studia">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=cygane&theme=blue-green&bg_color=30,040f0f,000f00&repo=Uwr-studia" /></a>
+</p>
 
