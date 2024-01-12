@@ -16,7 +16,7 @@ Hi, I'm Julia Cygan
  ## Github Stats
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cygane&hide=issues,contribs&show_icons=true&bg_color=00000000&count_private=true&theme=vue-dark&hide_border=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cygane&bg_color=00000000&theme=vue-dark&hide_border=true&langs_count=5&layout=donut" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cygane&bg_color=00000000&theme=vue-dark&hide_border=true&langs_count=5&layout=donut" />
 </p>
 
 ## My repos (I'll improve in that. I promise)
