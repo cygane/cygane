@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 Hi, I'm Julia Cygan 
 - a computer science student at Uniwersytet Wrocławski
 - currently working on [Todo-list](https://github.com/cygane/Todo-list)
-- also struggling in Discrete Math 
+- also struggling in Discrete Math (not anymore)
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=cygane&color=blueviolet&style=for-the-badge" />
