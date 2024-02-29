@@ -24,6 +24,8 @@ Hi, I'm Julia Cygan
  <a href="https://github.com/cygane/Uwr-studia">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cygane&theme=vue-dark&bg_color=00000000,040f0f,000f00&repo=Uwr-studia" /></a>
  <a href="https://github.com/PatrykFlama/FajrantInator.pl">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=vue-dark&bg_color=00000000,040f0f,000f00&repo=FajrantInator.pl" /></a>
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=vue-dark&bg_color=00000000,040f0f,000f00&repo=FajrantInator.pl" /</a>
+<a href="https://github.com/cygane/Todo-list">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=cygane&theme=vue-dark&bg_color=00000000,040f0f,000f00&repo=Todo-list" /></a>
 </p>
 
