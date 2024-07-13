@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 Hi, I'm Julia Cygan 
 - a computer science student at Uniwersytet Wrocławski
-- currently working on [Todo-list](https://github.com/cygane/Todo-list)
+- currently working on [wave_diary](https://github.com/cygane/wave_diary)
 - also struggling in Discrete Math (not anymore)
 
 <p align="center">
