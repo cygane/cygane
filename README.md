@@ -26,6 +26,6 @@ Hi, I'm Julia Cygan
  <a href="https://github.com/cygane/FajrantInator.pl">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cygane&theme=vue-dark&bg_color=00000000,040f0f,000f00&repo=FajrantInator.pl" /</a>
 <a href="https://github.com/cygane/waveDiary">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=cygane&theme=vue-dark&bg_color=00000000,040f0f,000f00&repo=wave_diary" /></a>
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=cygane&theme=vue-dark&bg_color=00000000,040f0f,000f00&repo=waveDiary" /></a>
 </p>
 
