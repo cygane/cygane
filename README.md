@@ -5,9 +5,9 @@
 Here are some ideas to get you started:
 -->
 Hi, I'm Julia Cygan 
-- a computer science student at Uniwersytet Wrocławski
-- currently working on [waveDiary](https://github.com/cygane/waveDiary)
-- also struggling in Discrete Math (not anymore)
+- finished Bachelor’s in CS at University of Wroclaw
+- currently working on [homeAlert](https://github.com/cygane/homeAlert)
+- working as Data Enigeer
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=cygane&color=blueviolet&style=for-the-badge" />
